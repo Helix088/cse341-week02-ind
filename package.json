@@ -1,0 +1,21 @@
+{
+  "name": "week01-ind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/Helix088/week01-ind.git",
+  "scripts": {
+    "start": "node app.js",
+    "dev-start": "nodemon app.js"
+  },
+  "author": "Chase Patterson",
+  "license": "ISC",
+  "private": "false",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
