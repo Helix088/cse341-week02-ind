@@ -5,8 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/Helix088/week01-ind.git",
   "scripts": {
-    "start": "node app.js",
-    "dev-start": "nodemon app.js"
+    "start": "node index.js",
+    "dev-start": "nodemon index.js"
   },
   "author": "Chase Patterson",
   "license": "ISC",
