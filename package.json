@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/Helix088/week01-ind.git",
+  "repository": "https://github.com/Helix088/cse341-week02-ind.git",
   "scripts": {
     "start": "node index.js",
     "dev-start": "nodemon index.js"
